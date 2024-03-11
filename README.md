@@ -1,6 +1,6 @@
 # workshop-task-1
 
-URL:
+URL: https://yjk2004.github.io/workshop-task-1/
 
 ### function: iceCream
 - set a stroke to (255)
