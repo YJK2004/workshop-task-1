@@ -5,6 +5,7 @@ URL: https://yjk2004.github.io/workshop-task-1/
 ### function: iceCream
 - set a stroke to (255)
 - looked up the RGB for icecream cone color: fill(227, 208, 191)
+  
 ![Unknown](https://github.com/YJK2004/workshop-task-1/assets/162935954/b4a2970c-57bd-41c7-8f68-878c04742806)
 
 - made cone shape out of triangle: triangle(x, y + size/3, x - size/6, y - size/3, x + size/6, y - size/3);
